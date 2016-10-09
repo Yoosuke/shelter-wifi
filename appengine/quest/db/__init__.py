@@ -1,0 +1,1 @@
+from quest.db.data import QuestData
